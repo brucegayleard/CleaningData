@@ -29,7 +29,7 @@ The following data frames are created and used by the script
 * **tidydata** - the final output data (see below)
 
 ## Result - tidyData Data Frame
-The **tidyData** data frame contains data from **mergedMeanStd** suumarised (averaged) by subject and activity.  
+The **tidyData** data frame contains data from **mergedMeanStd** summarised (averaged) by subject and activity.  
 
 The first 2 columns are the key columns:
 * **subjectId** - the subjects identifier (a number between 1 and 30)
